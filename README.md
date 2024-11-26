@@ -1,4 +1,4 @@
 # New project
 
 This project was created by local system.
-Cryted by Anjani Kumar.
+Created by Anjani Kumar.
